@@ -2,7 +2,7 @@
 
 > **An HR attrition case study: what drives people to resign, and an early-warning model that flags who to talk to first. Built with Excel, Python (scikit-learn) and Power BI.**
 
-![Dashboard cover](images/cover.png)
+![Dashboard cover](images/cover.png.png)
 
 ---
 
@@ -158,10 +158,10 @@ An interactive dashboard with a cover page and one dashboard page with tab navig
 
 Slicers: Department, Job role, Age group, Overtime, and a **what-if parameter** for the replacement cost (% of annual salary).
 
-![Overview](images/overview.png)
-![Drivers](images/drivers.png)
-![Risk watchlist](images/watchlist.png)
-![Actions](images/actions.png)
+![Overview](images/overview.png.png)
+![Drivers](images/drivers.png.png)
+![Risk watchlist](images/watchlist.png.png)
+![Actions](images/actions.png.png)
 
 🎥 **Demo:** [Watch the walkthrough](ADD-YOUR-LINKEDIN-OR-VIDEO-LINK-HERE)
 
