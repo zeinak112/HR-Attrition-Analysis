@@ -163,7 +163,7 @@ Slicers: Department, Job role, Age group, Overtime, and a **what-if parameter** 
 ![Risk watchlist](images/watchlist.png.png)
 ![Actions](images/actions.png.png)
 
-🎥 **Demo:** [Watch the walkthrough](ADD-YOUR-LINKEDIN-OR-VIDEO-LINK-HERE)
+🎥 **Demo:** [Watch the walkthrough](https://lnkd.in/p/eawHcDRw)
 
 **Main DAX measures:** `Total Employees`, `Attrition Count`, `Attrition Rate`, `Avg Monthly Income`, `High Risk (Active)`, `High Risk Hit Rate`, `Annual Salary (High Risk Active)` and `Expected Replacement Cost (High Risk)`.
 
